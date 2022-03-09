@@ -11,3 +11,5 @@
 **Modelos:** DNN, Decition Tree, Random Forest, Support Vector Machine.
 
 **Video** https://www.youtube.com/watch?v=0vzQpLJkHpU
+
+**Archivos interfaz grafica** https://drive.google.com/drive/folders/1izoPyF1-Gp90Eb9qO8YN5-OFkvWudq97?usp=sharing
